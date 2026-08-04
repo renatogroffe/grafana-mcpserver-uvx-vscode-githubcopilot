@@ -17,3 +17,7 @@ Arquivo **mcp.json**:
 	"inputs": []
 }
 ```
+
+Alguns testes com este MCP Server consultando métricas do Prometheus e logs no Grafana Loki:
+
+![Testes com o MCP Server do Grafana](img/mcp-grafana-01.png)
