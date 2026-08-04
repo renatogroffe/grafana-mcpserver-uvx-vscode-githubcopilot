@@ -1,6 +1,8 @@
 # grafana-mcpserver-uvx-vscode-githubcopilot
 Configurações para uso do MCP Server do Grafana com uvx (packages Pythons) + Visual Studio Code + GitHub Copilot.
 
+Mais informações sobre este MCP Server em: **https://grafana.com/docs/grafana/latest/developer-resources/mcp/introduction/**
+
 Arquivo **mcp.json**:
 
 ```json
