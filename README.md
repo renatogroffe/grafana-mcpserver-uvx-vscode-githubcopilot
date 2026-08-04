@@ -3,6 +3,8 @@ Configurações para uso do MCP Server do Grafana com uvx (packages Pythons) + V
 
 Mais informações sobre este MCP Server em: **https://grafana.com/docs/grafana/latest/developer-resources/mcp/introduction/**
 
+Aplicação utilizada nos testes (inclui Docker Compose para criação do ambiente com a stack Grafana): **https://github.com/renatogroffe/aspnetcore10-opentelemetry-grafana-tempo-loki-prometheus-oracle-testcontainers_contagemacessos** 
+
 Arquivo **mcp.json**:
 
 ```json
